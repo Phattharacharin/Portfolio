@@ -4,24 +4,25 @@ import imageProcessing from '../assets/certificate_image_processing1.pdf';
 import aiforthai from '../assets/certificate_aiforthai.pdf';
 
 export const data = [
+
     {
         id: 1,
-        title: "MATLAB Fundamentals",
-        date: "2 March 2025",
-        description: "MathWorks Training Services",
-        link: matlabFundamental
-    },
-    {
-        id: 2,
         title: "Image Processing with MATLAB",
         date: "6 March 2025",
         description: "MathWorks Training Services",
         link: imageProcessing
     },
     {
+        id: 2,
+        title: "MATLAB Fundamentals",
+        date: "2 March 2025",
+        description: "MathWorks Training Services",
+        link: matlabFundamental
+    },
+    {
         id: 3,
         title: "MATLAB Onramp",
-        date: "2 March 2025",
+        date: "17 Febuary 2025",
         description: "MathWorks Training Services",
         link: matlabOnramp
     },

@@ -13,16 +13,13 @@ const Contact = () => {
             <a href="https://www.linkedin.com/in/phattharacharin-khamsitha-0b0a173a0/" target="_blank" className='hover:text-white hover:scale-120 transition-all duration-600'>
                 <FontAwesomeIcon icon={faLinkedin} />
             </a>
-            <div 
-                onClick={() => {
-                    navigator.clipboard.writeText("phattharacharin.k@ku.th");
-                    alert("คัดลอกอีเมล phattharacharin.k@ku.th ลงคลิปบอร์ดแล้ว!");
-                }}
+            <a 
+                href="mailto:phattharacharin.k@ku.th"
                 className='hover:text-white hover:scale-120 transition-all duration-600 cursor-pointer'
-                title="Copy Email"
+                title="Send an email to phattharacharin.k@ku.th"
             >
                 <FontAwesomeIcon icon={faEnvelope} />
-            </div>
+            </a>
         </div>
     )
 }

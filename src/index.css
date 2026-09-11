@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+
+
+  /* 1. พื้นหลัง (Backgrounds) */
+  --color-primarybg: #0f172a;
+  /* พื้นหลังหลักทั้งเว็บ (Slate-900 เข้ม) */
+  --color-primaryBase: #1e293b;
+  /* พื้นหลังการ์ด / Badge / แท็บ (Slate-800) */
+
+  /* 2. ตัวอักษร (Typography) */
+  --color-primaryTitle: #f8fafc;
+  /* หัวข้อหลัก (ขาวสว่าง คมชัด) */
+  --color-primarySubC: #cbd5e1;
+  /* หัวข้อรอง / สับหัวข้อ (เทาอ่อน) */
+  --color-primaryContent: #94a3b8;
+  /* เนื้อหาทั่วไป / คำอธิบาย (เทาสบายตา) */
+  --color-primaryTitle2: #ABD2FA;
+
+  /* 3. สีเน้น & ปุ่ม (Accent & Buttons) */
+  --color-primaryAccent: #ff788d;
+  /* สีเน้น / ลิงก์ / จุดไฮไลต์ (Coral Pink) */
+  --color-button: #ff788d;
+  /* สีปุ่ม View Resume */
+}

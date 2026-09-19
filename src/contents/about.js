@@ -1,4 +1,4 @@
 export const data = {
     title: "About",
-    description: "Driven by a passion for frontend development, I enjoy creating intuitive and responsive web applications. A recent highlight of my work is the Supat Dental Clinic web app, where I applied my skills in React and Tailwind CSS to build a user-friendly interface for real-world use. I am eager to secure a Frontend Developer internship to collaborate with experienced teams, tackle new challenges, and further refine my technical abilities."
+    description: "riven by a passion for computer science and software development, I enjoy building intuitive applications and working with database systems to solve real-world problems. A recent highlight of my work is developing a web application for Suphat Dental Clinic using React, Tailwind CSS, and Supabase. I am eager to secure a Computer Science Co-op Internship to collaborate with experienced teams, tackle new challenges, and contribute value while continuing to expand my technical skills."
 }
